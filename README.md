@@ -1,2 +1,4 @@
 # Andreas Bergqvist
-## Web Developer
+## Developer and CEO @ [Itiden](https://www.itiden,se)
+
+Enjoys developing using [Laravel](https://github.com/laravel), [React](https://github.com/facebook/react), [Node](https://github.com/nodejs/node), [PHP](https://github.com/php), [.NET](https://github.com/dotnet), [Adonis](https://github.com/adonisjs) and more...
